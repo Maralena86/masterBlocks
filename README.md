@@ -1,2 +1,2 @@
 # masterBlocks
-Learning python exercises
+Learning python exercises from the cursus of blockchain conquerblocks
